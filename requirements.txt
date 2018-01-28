@@ -1,6 +1,5 @@
 numpy
 tensorflow
 keras
-pylab
 cv2
 Pillow
